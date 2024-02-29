@@ -1,7 +1,5 @@
 EXERCICIO 2
-
-Resposta:
-
+//Resposta:
 fun main() {
     println("I'm")
     println("learning")
